@@ -29,11 +29,11 @@ const Navbar = () => {
             Orders
           </Link>
 
-          {user && (user.role === "seller" || user.role === "both") && (
+          {/* {user && (user.role === "seller" || user.role === "both") && (
             <Link to="/seller/dashboard" style={styles.navLink}>
               Seller Dashboard
             </Link>
-          )}
+          )} */}
 
           {user && (user.role === "seller" || user.role === "both") && (
             <>
