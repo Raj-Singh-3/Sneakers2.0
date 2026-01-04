@@ -1,4 +1,4 @@
-# 🚀 SneakerMarket - Multi-Seller E-commerce Platform
+<img width="1895" height="878" alt="image" src="https://github.com/user-attachments/assets/1f3a5cff-f273-443d-9948-982195f64b8c" /># 🚀 SneakerMarket - Multi-Seller E-commerce Platform
 
 ![SneakerMarket Banner](https://img.shields.io/badge/MERN-Full%20Stack-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -369,15 +369,6 @@ heroku config:set MONGO_URI=your_mongodb_uri
 git push heroku main
 ```
 
-### Frontend Deployment (Netlify/Vercel)
-
-```bash
-# Build the app
-npm run build
-
-# Deploy build folder
-# Configure REACT_APP_API_URL to point to your backend
-```
 
 ## 📈 Future Enhancements
 
